@@ -16,6 +16,9 @@ The websites used to improve the game:
 
   ![Game over page](https://github.com/rajmalpure/FEWD-CA-2.TheHangmanGame/assets/144242039/8f1610f5-6d59-4284-9b30-1fdec656e878)
 
+  ![Congrats page](https://github.com/rajmalpure/FEWD-CA-2.TheHangmanGame/assets/144242039/2528c706-1038-459a-81ec-ee6d2c82c56c)
+
+
 
 
 
